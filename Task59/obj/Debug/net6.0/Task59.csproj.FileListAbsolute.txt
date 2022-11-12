@@ -1,0 +1,15 @@
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\bin\Debug\net6.0\Task59.exe
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\bin\Debug\net6.0\Task59.deps.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\bin\Debug\net6.0\Task59.runtimeconfig.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\bin\Debug\net6.0\Task59.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\bin\Debug\net6.0\Task59.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.csproj.AssemblyReference.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.AssemblyInfoInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.AssemblyInfo.cs
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.csproj.CoreCompileInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\refint\Task59.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\Task59.genruntimeconfig.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\Lesson8_homework\Task59\obj\Debug\net6.0\ref\Task59.dll
